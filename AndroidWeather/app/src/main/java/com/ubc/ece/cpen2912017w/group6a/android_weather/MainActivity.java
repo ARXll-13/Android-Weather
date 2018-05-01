@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     public Date date = new Date();
 
     //openweathermap.org weather api to get current weather data at Houston
-    final static String weatherHouston = "http://samples.openweathermap.org/data/2.5/weather?id=4699066&appid=c68b9e7c160eb22994944055838d20e0";
+    final static String weatherHouston = "http://api.openweathermap.org/data/2.5/weather?id=4699066&appid=c68b9e7c160eb22994944055838d20e0";
     static String weatherJSON = "";
     static JSONObject jsonObject = new JSONObject();
 
