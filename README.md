@@ -13,4 +13,4 @@ This app contains a textview and a button. When opened, this app will download a
 
 The above url link is supposed to return the json weather data of Houston. However due to some unknown issue, the above url link return a default json data, which is the weather data of Cairns instead of Houston. 
 
-Since the app works anyway and I don't have time to figure out the issue with the api, I will leave the app like this.
+Since the app works anyway and I don't have time to figure out the issue with the api, I will leave it like this.
